@@ -18,8 +18,8 @@ All scripts are written in **Bash**, and most require `sudo` privileges to perfo
 
 | Script | Description |
 |--------|-------------|
-| `docker-install.sh` | Installs Docker and Docker Compose on Linux systems. |
-| *(Add more scripts here)* | Brief description of their functionality. |
+| `install-docker.sh` | Installs Docker and Docker Compose on Linux systems. |
+| `install-gitlab.sh` | Installs GitLab and configures it. |
 
 > ⚠️ **Note:** Some scripts may require `sudo` access depending on the tasks they perform.
 
